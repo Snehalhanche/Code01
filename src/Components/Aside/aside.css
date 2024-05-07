@@ -1,0 +1,90 @@
+.content {
+    height: 100vh;
+    width: 326px;
+    margin-left: 30px;
+}
+
+.nav p {
+    text-align: center;
+}
+
+.highlight {
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+.posts {
+    color: black;
+    width: 70px;
+    height: 100px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    font-size: 10px;
+    margin: 10px;
+}
+
+.posts h2 {
+    font-size: 10px;
+}
+
+.content .online-profiles img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 2px;
+}
+
+.online-profiles {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin-top: 16px;
+    border-radius: 52px;
+    box-shadow: 5px 2px 5px 2px #888888
+}
+
+.online-profiles h1 {
+    margin-top: 10px;
+    font-size: 10px;
+    margin: 10px;
+}
+
+.online-profiles .active img {
+    height: 10px;
+    width: 10px;
+    margin: 4px
+}
+
+.online-profiles .inactive img {
+    height: 10px;
+    width: 10px;
+    margin: 4px
+}
+
+.add-post .image-post img {
+    height: 186px;
+    width: 440px;
+}
+
+.like img {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: right;
+    /* margin-left: 20px; */
+    border-radius: 50%;
+    background-color: aqua;
+}
+
+.online-profile{
+    margin-left: 30px
+}
+
+.vistor{
+    border: 1px solid black;
+    margin-left: 42px;
+    margin-top: 24px;
+    border-radius: 20px;
+}

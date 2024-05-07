@@ -1,0 +1,7 @@
+.online-profiles {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(245, 246, 239);
+    margin-top: 16px;
+    border-radius: 52px;
+}

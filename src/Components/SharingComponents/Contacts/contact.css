@@ -1,0 +1,20 @@
+.wrap-contacts{
+margin: 0;
+padding: 0;
+
+}
+
+.wrap-contacts .top-section .contacts .multiple-contacts img{
+    border-radius: 50%;
+    border: 1px solid brown;
+    margin-top: 24px;
+    height: 106px;
+    width: 102px;
+}
+
+.wrap-contacts .top-section .contacts{
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
